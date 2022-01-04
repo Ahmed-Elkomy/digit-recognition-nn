@@ -1,7 +1,7 @@
 # digit-recognition-nn
 
-## In this project I implemented a neural network algorithm for digit recognition.
-### The project files are as follow:
+In this project I implemented a neural network algorithm for digit recognition.
+## The project files are as follow:
 
 ```
 part2-nn/neural_nets.py in which I implemented your first neural net from scratch
