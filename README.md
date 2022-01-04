@@ -1,6 +1,6 @@
 # digit-recognition-nn
 
-In this project I implemented a neural network algorithm for digit recognition.
+In this project I implemented deep neural network algorithms for digit recognition. I used deep neural network in part2-nn, then I sued PyTorch to make the classification in part2-mnist, Finally I boosted the performance using the convolutional layers in part2-mnist.
 
 **The project files are as follow:**
 ```
